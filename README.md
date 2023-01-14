@@ -1,3 +1,3 @@
 # MY-WEBSITE
 
-https://github.com/francisbcn/MY-WEBSITE/blob/main/index.html
+https://github.com/francisbcn/MY-WEBSITE.git
