@@ -1,3 +1,3 @@
 # MY-WEBSITE
 
-https://github.com/francisbcn/MY-WEBSITE
+https://francisbcn.github.io/MY-WEBSITE/
